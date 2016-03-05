@@ -1,0 +1,40 @@
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b10_17171295
+Control panel password	**********
+Control panel URL
+cpanel.byethost10.com
+MySQL username
+b10_17171295
+MySQL password
+**********
+MySQL hostname
+sql213.byethost10.com
+FTP username
+b10_17171295
+FTP password
+**********
+FTP host name	ftp.byethost10.com
+
+
+Your Website URL's
+Home page
+http://shoeshop.byethost10.com
+
+
+
+
+
+
+
+
+
+<script lang="javascript">
+(function() {var _h1= document.getElementsByTagName('title')[0] || false;
+var product_name = ''; if(_h1){product_name= _h1.textContent || _h1.innerText;}var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.src = '//live.vnpgroup.net/js/web_client_box.php?hash=26b5b138d7db9022b889a11d4de1a8dd&data=eyJzc29faWQiOjIwODMzNzIsImhhc2giOiIwNTMzNjVhNzI2MThhMzU4MDcyODExZmQxMWJkODI3NyJ9&pname='+product_name;
+var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();
+</script>	
